@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Nureca</string>
+    <string name="countries">Countries</string>
+    <string name="search_countries">Search Countries</string>
+    <string name="load_data">Loading data...</string>
+    <string name="no_data_available">No Data available for this country</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="deaths">Deaths</string>
+    <string name="recovered">Recovered</string>
+    <string name="active">Active</string>
+    <string name="internet_not_available">Internet is not available</string>
+    <string name="no_data_msg">You have no saved countries. Please go to menu and add your country.</string>
+</resources>
